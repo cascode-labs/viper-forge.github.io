@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## VIPER-FORGE
 
-You can use the [editor on GitHub](https://github.com/cascode-labs/viper-forge.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A community-led collection of circuit design Conda packages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Viper and viper-forge packages make it really easy to get started designing an integrated circuit.  The packages will be built for the [Conda](https://docs.conda.io/en/latest/) package and enviroment manager and hosted on [conda-forge](https://conda-forge.org/).
 
-### Markdown
+### Viper Packages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We're currently developing conda build recipes for an initial set of projects to support on viper-forge.
 
-```markdown
-Syntax highlighted code block
+### Viper Free Silicon Environment Packages
+- [Viper](https://github.com/cascode-labs/viper) IC design Environment
+- [xschem](http://repo.hu/projects/xschem/xschem_man/xschem_man.html) Schematic Editor
+- [magic](http://opencircuitdesign.com/magic/index.html) layout editor
+- [xcircuit](http://opencircuitdesign.com/xcircuit/index.html) schematic editor
 
-# Header 1
-## Header 2
-### Header 3
+### Simulator Packages
+- [Xyce](https://xyce.sandia.gov/) Simulator
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cascode-labs/viper-forge.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Cadence Virtuoso Support Packages
+- [skill-bridge](https://unihd-cag.github.io/skillbridge/)
+- [libpsf](https://pypi.org/project/libpsf/)
