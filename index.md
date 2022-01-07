@@ -18,5 +18,5 @@ We're currently developing conda build recipes for an initial set of projects to
 - [Xyce](https://xyce.sandia.gov/) Simulator
 
 ### Cadence Virtuoso Support Packages
-- [skill-bridge](https://unihd-cag.github.io/skillbridge/)
-- [libpsf](https://pypi.org/project/libpsf/)
+- [skill-bridge](https://unihd-cag.github.io/skillbridge/) Python-SKILL interface
+- [libpsf](https://pypi.org/project/libpsf/) Spectre PSF results reader
